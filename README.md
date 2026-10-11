@@ -85,7 +85,7 @@ Actual Premium (1)               16                      27
 
 You can access and interact with the deployed live web application here:
 
-👉 **[Click here to view the live app](https://your-app-link.streamlit.app/)**
+👉 **[Click here to view the live app](https://wine-quality-ml-sy6wxqhmfxtqfkutxdugac.streamlit.app/)**
 
 *(Placeholder for deployment on Streamlit Community Cloud or hosting platform)*
 
